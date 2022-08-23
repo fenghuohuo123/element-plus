@@ -1,5 +1,5 @@
 <template>
-  <el-dropdown :hide-on-click="false">
+  <el-dropdown :hide-on-click="true">
     <span class="el-dropdown-link">
       Dropdown List<el-icon class="el-icon--right"><arrow-down /></el-icon>
     </span>
